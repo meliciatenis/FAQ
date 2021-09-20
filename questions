@@ -1,0 +1,1031 @@
+[
+    {
+        "filtro": "sobreOrbia",
+        "perguntas": [{
+            "pergunta": "O que é a Orbia?",
+            "resposta": "Olá! A Orbia é uma plataforma que acompanha a jornada da produção e conecta o agricultor a uma rede. Aqui, ele realiza a compra de insumos online; cadastra notas de parceiros para acumular pontos; resgata milhares de benefícios; e ainda vende seus grãos de soja. Já contamos com mais de 150 mil agricultores e nossa meta é nos tornarmos o ponto de (r)evolução do agronegócio.",
+            "video": "",
+            "link": "",
+            "id": "sobreOrbia"
+        }, {
+            "pergunta": "Quando foi fundada a empresa?",
+            "resposta": "Olá! Oficialmente, a Orbia nasceu em 3 de junho de 2019. Entretanto, somos a evolução da antiga Rede AgroServices da Bayer, que foi fundada em 2012.",
+            "video": "",
+            "link": "",
+            "id": "sobreOrbia"
+        }, {
+            "pergunta": "De onde veio a Orbia?",
+            "resposta": "Olá! A Orbia nasceu do resultado de uma Joint Venture entre Bayer Crop Science (líder no mercado agrícola) e a Bravium (líder no mercado de tecnologias go-to market).",
+            "video": "",
+            "link": "",
+            "id": "sobreOrbia"
+        }, {
+            "pergunta": "Quais as missões e os valores da Orbia?",
+            "resposta": "Olá! Queremos que os produtores, vendedores e distribuidores encontrem na Orbia as oportunidades para prosperarem ainda mais. Por isso, oferecemos um modelo de negócios inovador, que acompanha toda a jornada da produção e conecta o agricultor a uma rede para facilitar seus processos.",
+            "video": "",
+            "link": "",
+            "id": "sobreOrbia"
+        }, {
+            "pergunta": "Em quais países a Orbia está presente?",
+            "resposta": "Olá! Atualmente, a Orbia está presente no Brasil, México e Colômbia. Em breve, realizaremos o lançamento da nossa empresa na Argentina.",
+            "video": "",
+            "link": "",
+            "id": "sobreOrbia"
+        }]
+    }, {
+        "filtro": "reclamacoes",
+        "perguntas": [{
+            "pergunta": "Desejo abrir uma reclamação na Orbia.",
+            "resposta": "Olá! Antes de abrir uma reclamação, pedimos que você dê uma olhada na nossa página de Dúvidas Frequentes e tente encontrar uma solução para a sua dúvida. Caso não encontre, por favor, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+            "video": "",
+            "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+            "id": "reclamacoes"
+        }, {
+            "pergunta": "Tenho um problema com a minha entrega de insumos.",
+            "resposta": "Olá! Se a entrega ainda não foi realizada e estiver fora do prazo para o recebimento, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+            "video": "",
+            "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+            "id": "reclamacoes"
+        }, {
+            "pergunta": "Tenho um problema com a entrega de um resgate (produtos ou serviços).",
+            "resposta": "Olá! Neste caso, por favor, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+            "video": "",
+            "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+            "id": "reclamacoes"
+        }, {
+            "pergunta": "Tenho um problema com a minha venda de grãos na Orbia.",
+            "resposta": "Olá! Neste caso, por favor, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+            "video": "",
+            "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+            "id": "reclamacoes"
+        }, {
+            "pergunta": "Lancei uma nota fiscal, mas meus pontos ainda não foram creditados.",
+            "resposta": "Olá! Após o cadastro da nota fiscal, temos até 30 dias úteis para creditar os seus pontos. Se este prazo expirou e seus pontos ainda não foram creditados, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+            "video": "",
+            "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+            "id": "reclamacoes"
+        }, {
+            "pergunta": "Não consigo cadastrar minhas notas na Orbia.",
+            "resposta": "Olá! Por favor, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+            "video": "",
+            "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+            "id": "reclamacoes"
+        }, {
+            "pergunta": "Não recebo o código de verificação de celular.",
+            "resposta": "Olá! Neste caso, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+            "video": "",
+            "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+            "id": "reclamacoes"
+        }]
+    }, {
+        "filtro": "trabalheConosco",
+        "perguntas": [{
+            "pergunta": "Como posso me candidatar para vagas que estão disponíveis?",
+            "resposta": "Olá! Para participar de nossos processos seletivos, cadastre-se através do nosso site de vagas.",
+            "video": "",
+            "link": "<a class='link-emprego' href='https://orbia.abler.com.br/?utm_source=instagram&utm_medium=organico&utm_campaign=orbia-carreiras&utm_content=link-na-bio' target='_blank'>Candidate-se a uma vaga</a>",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Que níveis de cargos a Orbia oferece?",
+            "resposta": "Olá! A Orbia trabalha com níveis de cargos desde estágio até diretoria.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Como posso me candidatar para vagas que estão disponíveis?",
+            "resposta": "Olá! A Orbia segue a jornada de trabalho de oito horas diárias, com direito a uma hora de almoço.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Onde fica o escritório da Orbia?",
+            "resposta": "Olá! O nosso escritório fica localizado na cidade de São Paulo.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Nunca trabalhei com agronegócio. Posso trabalhar na Orbia?",
+            "resposta": "Olá! É possível ser contratado por nós sem ter experiência anterior no setor do agronegócio. Acesse nossa página de vagas, leia todas as informações do cargo desejado com muita atenção e candidate-se.",
+            "video": "",
+            "link": "<a class='link-emprego' href='https://orbia.abler.com.br/?utm_source=instagram&utm_medium=organico&utm_campaign=orbia-carreiras&utm_content=link-na-bio' target='_blank'>Candidate-se a uma vaga</a>",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Existem vagas exclusivas para diversidade na Orbia?",
+            "resposta": "Olá! Existem sim esse tipo de vaga. Para saber mais, acesse nossa página de vagas, leia todas as informações do cargo desejado com muita atenção e candidate-se.",
+            "video": "",
+            "link": "<a class='link-emprego' href='https://orbia.abler.com.br/?utm_source=instagram&utm_medium=organico&utm_campaign=orbia-carreiras&utm_content=link-na-bio' target='_blank'>Candidate-se a uma vaga</a>",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Como a Orbia lida com questões de diversidade dentro da empresa?",
+            "resposta": "Olá! A Orbia tem a missão de (r)evolucionar o agronegócio respeitando a todo tipo de diversidade. Na nossa empresa, não existe espaço para a intolerância! Por isso, temos o ''Caule - Coletivo de Diversidade'' : um grupo formado por nossos Orbians e que trabalham para sermos cada vez mais diversos e respeitadores.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Qual o LinkedIn da Orbia?",
+            "resposta": "Olá! Você encontra o nosso LinkedIn pesquisando por orbia.ag na rede social ou clicando no botão abaixo.",
+            "video": "",
+            "link": "<a class='link-emprego' href='https://www.linkedin.com/company/orbia-ag/mycompany/' target='_blank'>LinkedIn da Orbia</a>",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Posso me candidatar através do LinkedIn da Orbia?",
+            "resposta": "Olá! Pode sim. Desde que você se candidate às vagas disponíveis na nossa rede social.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Que tipos de benefícios a Orbia oferece a seus funcionários?",
+            "resposta": "Olá! A Orbia trabalha com dois tipos de benefícios para todos os nossos funcionários.<br><b>Benefícios Flexíveis:</b> você poderá escolher quais as melhores opções se enquadram nas suas necessidades do dia a dia: <br>Vale transporte, estacionamento ou vale mobilidade;<br>Vale alimentação e/ou vale refeição;<br>All points;<br>Seguro de vida;<br>Cartão Flash (cartão Mastercard, que pode ser utilizado em todos os estabelecimentos que aceita a bandeira).<br><b>Benefícios fixos:</b><br>Assistência médica e odontológica para titular e dependentes, sem co-participação;<br>Agrofrutas;<br>Ginastica laboral e Quick Massage;<br>Previdência privada;<br>Gympass;<br>PLR;<br>No Dress Code;<br>Flextime;<br>Modelo hibrido de trabalho.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "É obrigatório ter experiência no cargo para trabalhar na Orbia?",
+            "resposta": "Olá! Esse tipo de informação estará descrita na vaga a qual você se candidatar. Recomendamos que leia todas as informações de cada vaga com muita atenção antes de candidatar-se.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "É aceito indicações de profissionais por funcionários da Orbia?",
+            "resposta": "Olá! As indicações realizadas por funcionários da Orbia são aceitas. Os profissionais indicados terão seus currículos avaliados e passarão pelo nosso processo seletivo, assim como os demais candidatos.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Como ser indicado para uma vaga na Orbia?",
+            "resposta": "Olá! Neste caso de indicação, é preciso que você conheça algum funcionário nosso e que o mesmo lhe indique para determinada vaga. Caso você tenha algum conhecido na nossa empresa, peça a ele para conversar com um membro do nosso RH para saber como te indicar!",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Como a Orbia está lidando com os funcionários durante a pandemia de COVID-19?",
+            "resposta": "Olá! Desde o início da pandemia em 2020, a Orbia está trabalhando de forma 100% remota. Dessa forma, conseguimos garantir menos riscos de contaminação aos nossos colaboradores.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }, {
+            "pergunta": "Participei de um processo seletivo na Orbia, mas ainda não recebi o retorno. O que faço?",
+            "resposta": "Olá! Neste caso, pode ser que nosso RH ainda está entrevistando os candidatos e avaliando os currículos. Você pode entrar em contato por e-mail com o funcionário do nosso RH com o qual você realizou a sua entrevista para saber melhor.",
+            "video": "",
+            "link": "",
+            "id": "trabalheConosco"
+        }]
+    }, {
+        "filtro": "parceiroOrbia",
+        "perguntas": [
+            {
+                "pergunta": "Qual é o processo para entrar e começar a vender na plataforma?",
+                "resposta": "Olá! Agende uma reunião online com o nosso time comercial e realize o treinamento para montar sua loja e começar a vender seus produtos online.",
+                "video": "",
+                "link": "<a class='link-emprego' href='https://vendasinsumos-orbia.youcanbook.me/' target='_blank'>Agendar Reunião</a>",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Quais são os custos para participar da plataforma de insumos?",
+                "resposta": "Olá! Todo o suporte para a criação da sua loja online na Orbia é gratuito, somente a partir das vendas é que será cobrada uma comissão. Para mais detalhes sobre o formato de comissionamento, agende uma reunião online com um representante nosso.",
+                "video": "",
+                "link": "<a class='link-emprego' href='https://vendasinsumos-orbia.youcanbook.me/' target='_blank'>Agendar Reunião</a>",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Como será a política de distribuição dos produtos no ambiente online?",
+                "resposta": "Olá! A Orbia replica 100% da política de distribuição da indústria. Ou seja, caso haja bandeiras e regiões de atuação acordados entre a indústria e a rede de distribuição, as mesmas regras serão aplicadas à plataforma. Para mais detalhes, agende uma reunião online com um representante nosso.",
+                "video": "",
+                "link": "<a class='link-emprego' href='https://vendasinsumos-orbia.youcanbook.me/' target='_blank'>Agendar Reunião</a>",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Quais produtos posso vender na plataforma de insumos? Existe alguma especificação de portfólio?",
+                "resposta": "Olá! Não existe uma especificação, você pode vender 100% do seu portfólio na plataforma. Somente será necessário respeitar a legislação vigente e a política de distribuição da indústria.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "O produtor rural conseguirá ver o preço de todos os distribuidores?",
+                "resposta": "Olá! O produtor rural poderá visualizar preços somente após informar a sua localidade e as ofertas apresentadas a ele serão as dos distribuidores que têm permissão de atuação em sua região.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Qual será a política de distribuição e preço adotadas para a venda de produtos online?",
+                "resposta": "Olá! A política de distribuição e as bandeiras dos distribuidores deverão replicar exatamente as políticas das indústrias no que diz respeito de áreas de atuação e precificação.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Na compra de produtos Bayer via marketplace, a pontuação do produtor será automática?",
+                "resposta": "Olá! Sim, a pontuação será automática na conta Orbia do produtor rural.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Preciso ter o Pegasus para vender meus produtos na plataforma de insumos?",
+                "resposta": "Olá! Não é necessário. Para vender seus produtos na plataforma de insumos, basta a assinatura do contrato com a Orbia e a implementação do sistema.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Quem fará as entregas das vendas feitas online?",
+                "resposta": "Olá! As entregas serão de responsabilidade total dos distribuidores. A Orbia, como um mercado online, apenas possibilitará a captura de pedidos via internet.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Quais serão as opções de entrega na plataforma?",
+                "resposta": "Olá! As entregas são de responsabilidade total dos distribuidores, por isso, as opções de entregas serão de acordo com o distribuidor.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Quais os meios de pagamento disponíveis na plataforma?",
+                "resposta": "Quais os meios de pagamento disponíveis na plataforma?",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Como funcionará o processo de receituário agronômico nos pedidos feitos online?",
+                "resposta": "Olá! No momento em que o produtor realizar um pedido, ele terá duas opções: anexar um receituário ou solicitar orientação técnica. Em ambos os casos, a venda e faturamento só poderão ser efetivados após a emissão e anexação do receituário.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, {
+                "pergunta": "Como será feita a gestão/atualização de estoque?",
+                "resposta": "Olá! O distribuidor é o responsável por manter o seu estoque atualizado na plataforma, realizando o envio dessa informação na frequência que for necessária.",
+                "video": "",
+                "link": "",
+                "id": "distribuidorOrbia"
+            }, 
+            {
+                "pergunta": "O que é o Programa de Coalizão da Orbia?",
+                "resposta": "Olá! O nosso programa de coalizão é uma plataforma de relacionamento entre produtores rurais e as empresas parceiras, na qual o produtor acumula pontos em Orbia ao realizar o cadastro de notas fiscais de compras de produtos destas empresas. Os pontos acumulados podem ser trocados na plataforma da Orbia por milhares de produtos e serviços.",
+                "video": "",
+                "link": "",
+                "id": "parceiroPuntuacaoClientes"
+            }, {
+                "pergunta": "Tenho interesse em participar do programa da Orbia distribuindo pontos para meus clientes. O que precisa ser feito?",
+                "resposta": "Olá! Ficamos muito felizes de saber que você deseja ser um parceiro nosso! Por favor, registre o seu interesse pelo nosso site e o nosso time entrará em contato em breve!",
+                "video": "",
+                "link": "<a href='https://cadastro.orbia.ag/' target='_blank'>Registrar Interesse</a>",
+                "id": "parceiroPuntuacaoClientes"
+            }, {
+                "pergunta": "Quanto custa para participar do programa? Quais são os formatos de participação?",
+                "resposta": "Olá! As modalidades de participação são flexíveis para atender as necessidades do seu negócio. Para sermos assertivos, por favor, registre o seu interesse pelo nosso site e o nosso time entrará em contato em breve para te auxiliar!",
+                "video": "",
+                "link": "<a href='https://cadastro.orbia.ag/' target='_blank'>Registrar Interesse</a>",
+                "id": "parceiroPuntuacaoClientes"
+            }, {
+                "pergunta": "Como o meu cliente acumulará pontos?",
+                "resposta": "Olá! Cada parceiro de coalizão da Orbia estabelece a sua própria regra de pontuação. O produtor rural irá pontuar de acordo com o regulamento do parceiro que ele cadastrou uma nota fiscal.",
+                "video": "",
+                "link": "",
+                "id": "parceiroPuntuacaoClientes"
+            }, {
+                "pergunta": "O produtor recebe pontos de forma automática por cada compra de parceiro?",
+                "resposta": "Olá! Para pontuar em Orbia, o produtor precisa cadastrar as notas fiscais do parceiro na plataforma da Orbia. As notas passarão pelo fluxo de validação e, caso estejam dentro das regras de acúmulo do parceiro, a compra será pontuada na conta Orbia do produtor.",
+                "video": "",
+                "link": "",
+                "id": "parceiroPuntuacaoClientes"
+            }, {
+                "pergunta": "Em quanto tempo os pontos são creditados na conta do produtor?",
+                "resposta": "Olá! Em média, o crédito dos pontos ocorre em até 30 dias úteis na conta Orbia do produtor rural.",
+                "video": "",
+                "link": "",
+                "id": "parceiroPuntuacaoClientes"
+            }, {
+                "pergunta": "Todas as compras de produtos de minha marca acumulam pontos?",
+                "resposta": "Olá! Somente os produtos definidos por cada parceiro de coalizão geram pontos na Orbia. Por isso, é necessário o estabelecimento das regras de pontuação no regulamento do parceiro.",
+                "video": "",
+                "link": "",
+                "id": "parceiroPuntuacaoClientes"
+            }, {
+                "pergunta": "Os pontos têm validade? Eles podem expirar?",
+                "resposta": "Olá! Os pontos têm validade de 3 anos a partir da data de crédito na conta Orbia de origem. Em caso de transferência de pontos, eles mantém a data de validade original da outra conta.",
+                "video": "",
+                "link": "",
+                "id": "parceiroPuntuacaoClientes"
+            },
+            {
+                "pergunta": "Quem é responsável pela entrega dos produtos resgatados?",
+                "resposta": "Olá! As entregas dos produtos resgatados na plataforma da Orbia são realizadas pela nossa parceira Satelital.",
+                "video": "",
+                "link": "",
+                "id": "parceiroEntregaProdutos"
+            }, {
+                "pergunta": "Qual o valor cobrado pelo frete?",
+                "resposta": "Olá! O frete é calculado de acordo com as políticas de entrega da nossa parceira Satelital. Para saber o valor cobrado para o frete, é necessário simular o resgate do(s) produtos(s) desejados na plataforma da Orbia.",
+                "video": "",
+                "link": "",
+                "id": "parceiroEntregaProdutos"
+            }, {
+                "pergunta": "O frete do resgate é pago em dinheiro ou em pontos?",
+                "resposta": "Olá! Por enquanto, o frete é pago somente em pontos. Entretanto, já estamos trabalhando na disponibilização do pagamento em dinheiro. Quando essa opção estiver liberada, iremos comunicar a todos!",
+                "video": "",
+                "link": "",
+                "id": "parceiroEntregaProdutos"
+            }, {
+                "pergunta": "Quem é responsável pela entrega dos produtos resgatados?",
+                "resposta": "Olá! As entregas dos produtos resgatados na plataforma da Orbia são realizadas pela nossa parceira Satelital.",
+                "video": "",
+                "link": "",
+                "id": "parceiroEntregaProdutos"
+            }, {
+                "pergunta": "Qual o prazo para a entrega?",
+                "resposta": "Olá! O prazo de entrega é de 30 dias úteis. Entretanto, ele pode ser estendido por conta de imprevistos com a entrega da nossa parceira Satelital. Neste caso, a parceira entrará em contato pelo telefone e email cadastrados na conta do produtor para comunicar sobre o ocorrido.",
+                "video": "",
+                "link": "",
+                "id": "parceiroEntregaProdutos"
+            }, {
+                "pergunta": "Tenho um cliente com problema na entrega de um resgate. O que fazer?",
+                "resposta": "Olá! Neste caso, por favor, peça ao cliente para entrar em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "parceiroEntregaProdutos"
+            },
+            {
+                "pergunta": "Estará acontecendo alguma campanha durante o mês de Agosto?",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "parceiroOfertasOrbia"
+            }, {
+                "pergunta": "Quais são as condições para participar da campanha?",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "parceiroOfertasOrbia"
+            }, {
+                "pergunta": "Qual o período de participação da campanha? ",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "parceiroOfertasOrbia"
+            }, {
+                "pergunta": "Quais são os meios de pagamentos disponíveis na campanha? ",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "parceiroOfertasOrbia"
+            }, {
+                "pergunta": "Onde posso encontrar o regulamento da campanha?",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "parceiroOfertasOrbia"
+            },
+            {
+                "pergunta": "O que é Orbia LATAM?",
+                "resposta": "Olá! Este é o projeto de expansão da Orbia para outros países da América Latina com o objetivo de tornar a nossa empresa, cada vez mais, uma multinacional.",
+                "video": "",
+                "link": "",
+                "id": "parceiroOrbiaLatam"
+            }, {
+                "pergunta": "Em quais países da América Latina a Orbia está presente?",
+                "resposta": "Olá! Já iniciamos as operações no México e na Colômbia.",
+                "video": "",
+                "link": "",
+                "id": "parceiroOrbiaLatam"
+            }, {
+                "pergunta": "Quais são os canais de comunicação de cada país?",
+                "resposta": "Olá! O site para acesso no México é mexico.nucle.ag e na Colômbia é colombia.orbia.ag.",
+                "video": "",
+                "link": "",
+                "id": "parceiroOrbiaLatam"
+            }, {
+                "pergunta": "Que tipo de transações posso realizar através das plataformas nos outros países?",
+                "resposta": "Olá! Até o momento, apenas as transações de compra de insumos, cadastro de notas e resgate de produtos e serviços podem ser realizadas pelo site da Orbia no México e na Colômbia.",
+                "video": "",
+                "link": "",
+                "id": "parceiroOrbiaLatam"
+            }, {
+                "pergunta": "Qual a previsão de chegada em outros países?",
+                "resposta": "Olá! Por enquanto, estamos programando o início da operação na Argentina. Demais países da América Latina ainda não estão em processo de construção, mas esperamos que em breve possamos alcançar outros locais.",
+                "video": "",
+                "link": "",
+                "id": "parceiroOrbiaLatam"
+            }]
+    }, {
+        "filtro": "produtorRural",
+        "perguntas": [
+            {
+                "pergunta": "Como faço para me cadastrar na Orbia?",
+                "resposta": "Olá! Basta acessar o nosso site orbia.ag ou aplicativo e clicar no botão ''Entre ou Cadastre-se''. Após, basta preencher os dados na área de cadastro e criar sua conta Orbia. Se preferir, você pode seguir o passo a passo pelo tutorial em nosso Instagram!",
+                "video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/2yIh5WstplE' title='YouTube video player' frameborder='0' allow='accelerometer'; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Alteração de dados cadastrais",
+                "resposta": "Olá! A maioria dos dados cadastrais você consegue alterar acessando a sua conta. Acesse o nosso site obria.ag ou aplicativo, faça seu login e atualize seus dados através do seu perfil.",
+                "video": "",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Como redefinir minha senha?",
+                "resposta": "Olá! Acesse o nosso site orbia.ag ou aplicativo, clique para fazer o login e em ''Esqueci meu e-mail ou senha'' para solicitar um nova senha. É importante lembrar que será necessário acessar o seu e-mail cadastrado, pois enviaremos o link de alteração de senha para o mesmo endereço de e-mail.",
+                "video": "",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Não lembro meu e-mail e senha, como faço para acessar?",
+                "resposta": "Olá! Entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h. É importante lembrar que esse tipo de alteração cadastral deve ser solicitada pelo titular do cadastro.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Por que preciso validar meu celular?",
+                "resposta": "Olá! Esse procedimento aumenta a segurança na sua conta e nas transações que você faz em Orbia, reduzindo os riscos de fraude e facilitando o contato caso a gente precise falar com você.",
+                "video": "",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "É obrigatório cadastrar um celular válido na minha conta?",
+                "resposta": "Olá! Você obrigatoriamente precisa ter um telefone celular confirmado associado ao seu perfil. Com isso, a segurança dos seu perfil e de todas as transações que você faz em sua conta.",
+                "video": "",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Não recebo o código de validação no meu celular. O que fazer?",
+                "resposta": "Olá! Entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h. É importante lembrar que esse tipo de atendimento deve ser solicitado pelo titular do cadastro.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Posso cadastrar 2 ou mais CPFs em uma única conta?",
+                "resposta": "Olá! Cada usuário deve ter um cadastro próprio na Orbia com apenas um CPF. Em caso de familiares ou sócios, é necessário que cada indivíduo tenha sua própria conta.",
+                "video": "",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Posso cadastrar 2 ou mais CNPJs em meu nome?",
+                "resposta": "Olá! Pode sim. Cada cliente Orbia pode cadastrar um ou mais CNPJs em sua conta. Mas lembre-se: uma vez cadastrado, o mesmo CNPJ não poderá ser utilizado por outra pessoa em outro perfil na Orbia.",
+                "video": "",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Quero transferir o CNPJ que está em meu nome para outra pessoa. Como fazer?",
+                "resposta": "Olá! Para este procedimento, o usuário que tem o CNPJ cadastrado deverá excluí-lo de sua própria conta para que outra pessoa possa incluir esse dado em outro perfil.",
+                "video": "",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, {
+                "pergunta": "Não consigo cadastrar um CNPJ, pois já foi cadastrado por outra pessoa. O que devo fazer?",
+                "resposta": "Olá! Se o CNPJ está cadastrado por alguém que você desconhece, por favor, entre em contato com nossa Central de Atendimento. Se for o caso de algum conhecido, basta pedir que ele remova o CNPJ da conta e, assim, você poderá usar na sua.",
+                "video": "",
+                "link": "",
+                "id": "produtorDadosCadastrais"
+            }, 
+            {
+                "pergunta": "Como comprar insumos na Orbia?",
+                "resposta": "<ol><p>Olá! Para comprar insumos na Orbia, basta seguir o passo a passo:</p> <li>Acesse o site orbia.ag ou o aplicativo.</li><li>Faça o seu login.</li><li>Clique em ''Comprar Insumos''.</li><li>Selecione o(s) produto(s) que deseja comprar.</li><li>Selecione a data de entrega.</li><li>Clique em ''Adicionar ao carrinho''.</li><li>Clique em ''Adicionar mais produtos'' ou em ''Continuar'' para finalizar sua compra.</li><li>Selecione se deseja fazer a retirada ou ter a entrega dos itens.</li><li>Confira seus dados e opções de pagamento.</li><li> Clique em ''Finalizar pedido''.</li></ol>",
+                "video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/fhTZ2kDiPr0' title='YouTube video player' frameborder='0' allow='accelerometer'; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>",
+                "link": "<a href='https://www.orbia.ag/comprar' target='_blank'>Comprar Insumos na Orbia</a>",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Na compra de produtos Bayer via Orbia, a pontuação é automática?",
+                "resposta": "Olá! Para pontuar em Orbia, você precisa cadastrar as notas fiscais do parceiro na nossa plataforma. As notas passarão pelo fluxo de validação e, caso estejam dentro das regras de acúmulo do parceiro, a compra será pontuada na sua conta Orbia.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Quem faz a entrega das compras?",
+                "resposta": "Olá! As entregas de insumos agrícolas realizadas via Orbia são de total responsabilidade do distribuidor escolhido na hora da compra.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Quais são as opções de entrega?",
+                "resposta": "Olá! Como a entrega é de responsabilidade do distribuidor, será preciso escolher dentro das opções de entrega disponíveis de acordo com cada distribuidor.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Qual o prazo de entrega?",
+                "resposta": "Olá! Como a entrega é de responsabilidade do distribuidor, será preciso simular o prazo de entrega dentro das opções disponíveis de acordo com cada distribuidor.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Como funciona o processo de receituário agronômico nos pedidos online?",
+                "resposta": "Olá! No momento em que você realizar um pedido, terá duas opções: anexar um receituário ou solicitar orientação técnica. Em ambos os casos, a venda e faturamento só poderão ser efetivados após a emissão e anexação do seu receituário.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Como faço para acessar o boleto referente à minha compra de insumos na Orbia?",
+                "resposta": "Olá! Para acessar os boletos à vista ou à prazo, acesse a sua conta no site orbia.ag ou aplicativo e clique em ''Pedidos - Compra de Insumos''. Caso queira baixar seu(s) boleto(s), é só clicar em ''Imprimir'' ao lado do meio de pagamento escolhido.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Como acompanho o status da minha compra de insumos na Orbia??",
+                "resposta": "Olá! Para consultar o status do seu pedido, acesse a sua conta no site orbia.ag ou aplicativo e clique em ''Pedidos - Compra de Insumos''. ",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Tenho um problema com a minha entrega de insumos. O que faço?",
+                "resposta": "Olá! Se a entrega ainda não foi realizada e estiver fora do prazo para o recebimento, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Posso cancelar uma compra de insumos que fiz na Orbia?",
+                "resposta": "Olá! Neste caso, é necessário verificarmos a possibilidade do cancelamento. Por isso, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Posso fazer a troca de insumos comprados na Orbia?",
+                "resposta": "Olá! Para compras de insumos na Orbia, não há uma política de trocas ou devoluções. Caso haja qualquer problema, o contato deverá ser feito diretamente com o distribuidor escolhido na hora da compra.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Quais são as formas de pagamento para compras de insumos na Orbia?",
+                "resposta": "Olá! As formas de pagamento são: cartão de crédito, cartão de débito, boleto à vista, boleto à prazo e barter/troca de grãos.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Como funciona o boleto à prazo?",
+                "resposta": "Olá! Com os boletos à prazo, você pode escolher a data desejada para o pagamento antes de concluir o seu pedido de compra.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Como receber o meu boleto à prazo ou à vista?",
+                "resposta": "Olá! As duas modalidade de boletos são automaticamente geradas pela plataforma assim que você concluir a sua compra.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Como é feito o barter/troca na Orbia?",
+                "resposta": "Olá! Para realizar uma compra de insumos com pagamento em grãos, você deverá entrar em contato com o seu distribuidor e ele irá montar um pacote exclusivo para você.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Quais culturas são aceitas para pagamento com barter/troca?",
+                "resposta": "Olá! Atualmente trabalhamos no barter/troca com grãos de soja, milho e café. Confira a disponibilidade com o seu distribuidor de insumos.",
+                "video": "",
+                "link": "",
+                "id": "produtorComprarInsumos"
+            }, {
+                "pergunta": "Não estou encontrando produtos disponíveis para compra na minha região. O que isso significa?",
+                "resposta": "Olá! Isto significa que nenhum distribuidor ou cooperativa da sua região possui parceria conosco. Você pode nos sugerir distribuidores da sua região pela nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorComprarInsumos"
+            },
+            {
+                "pergunta": "O que é o Agropack?",
+                "resposta": "Olá! O Agropack é uma nova funcionalidade disponível na Orbia, na qual produtores rurais podem comprar e negociar insumos de forma 100% online e segura. É um local livre para negociações entre o produtor e o distribuidor.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            }, {
+                "pergunta": "Como montar um Agropack?",
+                "resposta": "Olá! Para montar a sua proposta, basta seguir o passo a passo:<br><br> 1. Acesse o nosso site ; <br> 2. Clique em ''Faça uma nova proposta''; <br> 3. Faça seu login;<br> 4. Escolha seu distribuidor;<br>5. Escolha os insumos desejados;<br> 6. Insira as informações de entrega;<br>7. Insira o valor que gostaria de pagar pelo seu Agropack;<br>8. Envie a sua proposta.<br><br> O seu Agropack será analisado pelo distribuidor. E, caso ela seja aprovada, a Orbia garante 2% de desconto no valor total!",
+                "video": "",
+                "link": "<a class='link-emprego' href='http://lp.orbia.ag/agropack' target='_blank'>Crie agora o seu Agropack</a>",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Quais são os benefícios do Agropack para o produtor rural?",
+                "resposta": "Olá! São muitos benefícios com o Agropack, confira alguns deles: <br><br> - Livre negociação da sua compra; <br> - Sem valores mínimo ou máximo para fazer a proposta; <br> - Escolha o seu distribuidor de confiança; <br> - Escolha todos os insumos agrícolas que desejar; <br> - Não há obrigatoriedade de realizar a compra; <br> -Faça tudo online e de forma segura;<br><br> Receba 2% de desconto no valor total, caso sua proposta seja aprovada.",
+                "video": "",
+                "link": "<a class='link-emprego' href='http://lp.orbia.ag/agropack' target='_blank'>Crie agora o seu Agropack</a>",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Existe um valor mínimo ou máximo para colocar no preço sugerido pelo meu Agropack?",
+                "resposta": "Olá! Não existe um valor máximo ou mínimo para a sua proposta. O Agropack tem o objetivo de ser um espaço para livre negociação entre produtores e distribuidores.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Não sei que valor colocar como sugerido pelo meu Agropack. O que faço?",
+                "resposta": "Olá! Como não há um valor mínimo ou máximo para a sua negociação, você pode considerar os valores pelos quais já pagou em outras experiências de compra ou o valor que desejaria pagar pelos insumos agrícolas que escolheu.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "O que preciso para montar um Agropack?",
+                "resposta": "Olá! Para montar um Agropack na Orbia, basta você ter um perfil cadastrado na nossa plataforma e fazer a seleção dos seus insumos agrícolas.",
+                "video": "",
+                "link": "<a class='link-emprego' href='http://lp.orbia.ag/agropack' target='_blank'>Crie agora o seu Agropack</a>",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Quais os distribuidores disponíveis para montar a minha proposta no Agropack?",
+                "resposta": "Olá! Você poderá escolher o distribuidor da sua confiança e de sua região na montagem do seu Agropack, com os insumos agrícolas disponibilizados por ele.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Qual o desconto dado pela Orbia no Agropack?",
+                "resposta": "Olá! A Orbia garante 2% de desconto no valor total da sua proposta quando ela é aprovada pelo distribuidor escolhido por você.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Como acompanho o andamento do meu Agropack?",
+                "resposta": "Olá! Após fazer o envio da sua proposta, no seu perfil de usuário será possível conferir o histórico da sua negociação e o status dela (enviada, aprovada, recusada, aguardando pagamento, etc).",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "O que acontece se meu Agropack for recusado pelo distribuidor?",
+                "resposta": "Olá! Quando o distribuidor recusa a sua negociação, ele dá um novo valor sugerido para o seu Agropack. Você pode aceitar ou não o novo valor. Se você recusar, pode cancelar a proposta e criar uma nova.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Quais são as formas de pagamento disponíveis quando meu Agropack for aprovado?",
+                "resposta": "Olá! Por enquanto, as formas de pagamento disponíveis são: boleto bancário à prazo e à vista. Já estamos trabalhando para, futuramente, aceitar o pagamento em barter!<br> Lembrando que as formas de pagamento ficam disponíveis somente quando seu Agropack for aprovado pelo distribuidor.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Montei um Agropack, mas não desejo realizar a compra. Sou obrigado a comprar?",
+                "resposta": "Olá! Não existe nenhuma obrigação de compra, mesmo que a sua proposta esteja aprovada. O Agropack é uma funcionalidade focada na livre negociação, então você pode fazer uma proposta e não realizar a compra.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Posso cancelar o meu Agropack?",
+                "resposta": "Olá! Pode sim. Ao enviar a sua proposta, você pode realizar o cancelamento da mesma a qualquer momento pelo seu perfil de usuário.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Quem é o responsável pela entrega do meu Agropack?",
+                "resposta": "Olá! A entrega é de total responsabilidade do distribuidor escolhido na montagem do seu Agropack.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },{
+                "pergunta": "Qual o prazo de entrega do meu Agropack?",
+                "resposta": "Olá! Como a entrega do seu Agropack é de total responsabilidade do distribuidor escolhido no momento de montagem da sua proposta, será necessário seguir o tempo de entrega estabelecido pelo distribuidor para a sua região.",
+                "video": "",
+                "link": "",
+                "id": "produtorAgropack"
+            },
+            {
+                "pergunta": "",
+                "resposta": "",
+                "video": "",
+                "link": "",
+                "id": "produtorPontuarOrbia"
+            }
+            ,{
+                "pergunta": "",
+                "resposta": "",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesServiços"
+            },
+            {
+                "pergunta": "Como resgatar um produto?",
+                "resposta": "Olá! Para resgatar um produto na plataforma da Orbia, basta seguir o passo a passo:<br><br>1️. Acesse o site <a href='http://orbia.ag' target='_blank'>orbia.ag<a> ou o aplicativo.<br>2️. Faça seu login.<br>3️. Selecione o(s) produto(s) que deseja resgatar.<br>4️. Insira o CEP para entrega e adicione o produto ao carrinho.<br>5️. Selecione o endereço de entrega.<br>6️. Selecione o documento para emissão da nota fiscal.<br>7️. Verifique as informações do seu pedido.<br>8️. Valide o seu resgate com o código de verificação.<br><br>Pronto, resgate concluído!",
+                "video": "<iframe width='560' height='315' src='https://www.youtube.com/embed/ZSvfXWR_c2o' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "O que eu preciso para resgatar um produto na Orbia?",
+                "resposta": "Olá! Para resgatar um produto na Orbia, basta você estar cadastrado na nossa plataforma e ter pontos ou pontos + dinheiro o suficiente para resgatar o produto que deseja.",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "O que é o resgate de produtos com pontos + dinheiro?",
+                "resposta": "Olá! A modalidade de resgate em pontos + dinheiro é uma nova opção na Orbia para nossos clientes resgatarem os produtos desejados. Com ela, é possível complementar o valor do resgate, antes somente em pontos, usando dinheiro.",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Como faço para resgatar produtos com pontos + dinheiro?",
+                "resposta": "Olá! Para resgatar um produto com pontos + dinheiro na plataforma da Orbia, basta seguir o passo a passo:<br><br>1️. Acesse o site http://orbia.ag ou o aplicativo.<br>2️. Faça seu login.<br>3️. Selecione o(s) produto(s) que deseja resgatar.<br>4️. Selecione a opção desejada para resgatar com pontos + dinheiro;<br>5️. Insira os dados para pagamento do resgate em dinheiro;<br>6️. Insira o CEP para entrega e adicione o produto ao carrinho.<br>7️. Selecione o endereço de entrega.<br>8️. Selecione o documento para emissão da nota fiscal.<br>9️. Verifique as informações do seu pedido.<br>1️0. Valide o seu resgate com o código de verificação.<br><br>Pronto, resgate concluído!",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Que forma de pagamento posso usar para resgatar um produto com pontos + dinheiro?",
+                "resposta": "Olá! Por enquanto, o pagamento pode ser feito somente via cartão de crédito. Entretanto, já estamos trabalhando para aceitar outras modalidades de pagamento!",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Quem pode resgatar produtos na Orbia com pontos + dinheiro?",
+                "resposta": "Olá! Todos os usuários cadastrados na plataforma da Orbia poderão resgatar com essa funcionalidade, desde que tenham saldo de pontos + dinheiro suficiente para o resgate do produto desejado.",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Fiz o resgate de um produto. Posso cancelar e receber de volta a pontuação utilizada?",
+                "resposta": "Olá! Sim. O cancelamento deve ser solicitado pela Central de Atendimento. Este tipo de solicitação será aceita dentro de até sete dias após o recebimento do produto.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Como realizo trocas de produtos resgatados?",
+                "resposta": "Olá! Em caso de trocas ou devolução, é preciso abrir um chamado na nossa Central de Atendimento. A solicitação de troca ou devolução precisa ocorrer dentro dos sete dias corridos, a partir da data de recebimento do produto.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Posso cadastrar outro endereço para o recebimento do produto que resgatei?",
+                "resposta": "Olá! Sim. Para isso, você deve indicar o endereço desejado no momento de finalização do seu resgate.",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Eu vou receber alguma confirmação do meu resgate?",
+                "resposta": "Olá! Sim. Após a finalização do processo, serão enviadas para o seu e-mail todas as informações do seu resgate. As informações também estão disponíveis na sua conta em ''Resgate de pontos''.",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Para finalizar um resgate é necessário incluir um código de verificação?",
+                "resposta": "Olá! Sim. Para concluir o resgate, é necessário incluir o código de verificação recebido via SMS. Após este procedimento, seu resgate será finalizado e você receberá um e-mail de confirmação.",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Em que canais o código de verificação é recebido?",
+                "resposta": "Olá! O código é recebido pelo SMS. Já estamos trabalhando para o recebimento via WhatsApp e e-mail.",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Por que preciso ter um código de verificação para resgatar um serviço?",
+                "resposta": "Olá! O código de verificação é uma forma da Orbia garantir mais segurança ao seu cadastro e às suas transações dentro da nossa plataforma. Assim, podemos evitar fraudes.",
+                "video": "",
+                "link": "",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Não recebi o meu código de verificação. O que faço?",
+                "resposta": "Olá! Neste caso, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorResgatesProdutos"
+            },{
+                "pergunta": "Quero realizar um resgate, porém meu número de celular está desatualizado. O que faço?",
+                "resposta": "Olá! Neste caso, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h. É importante lembrar que esse tipo de alteração cadastral deve ser solicitada pelo titular do cadastro.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorResgatesProdutos"
+            },
+            {
+                "pergunta": "Quem é responsável pela entrega dos produtos resgatados?",
+                "resposta": "Olá! As entregas dos produtos resgatados na plataforma da Orbia são realizadas pela nossa parceira Satelital.",
+                "video": "",
+                "link": "",
+                "id": "produtorEntregaProdutos"
+            },{
+                "pergunta": "Qual o valor cobrado pelo frete?",
+                "resposta": "Olá! O frete é calculado de acordo com as políticas de entrega da nossa parceira Satelital. Para saber o valor cobrado para o frete, é necessário simular o resgate do(s) produtos(s) desejados na plataforma da Orbia.",
+                "video": "",
+                "link": "",
+                "id": "produtorEntregaProdutos"
+            },{
+                "pergunta": "O frete do resgate é pago em dinheiro ou em pontos?",
+                "resposta": "Olá! Por enquanto, o frete é pago somente em pontos. Entretanto, já estamos trabalhando na disponibilização do pagamento em dinheiro. Quando essa opção estiver liberada, iremos comunicar a todos!",
+                "video": "",
+                "link": "",
+                "id": "produtorEntregaProdutos"
+            },{
+                "pergunta": "Qual o prazo para a entrega?",
+                "resposta": "Olá! O prazo de entrega é de 30 dias úteis. Entretanto, ele pode ser estendido por conta de imprevistos com a entrega da nossa parceira Satelital. Neste caso, a parceira entrará em contato pelo telefone e email cadastrados na conta do produtor para comunicar sobre o ocorrido.",
+                "video": "",
+                "link": "",
+                "id": "produtorEntregaProdutos"
+            },{
+                "pergunta": "Tenho um problema com a entrega de um resgate. O que fazer?",
+                "resposta": "Olá! Neste caso, por favor, entre em contato com a nossa Central de Atendimento. O horário de atendimento é de segunda à sábado, das 8h às 20h.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorEntregaProdutos"
+            },
+            {
+                "pergunta": "Onde posso conferir a Política de Trocas e Devoluções?",
+                "resposta": "Olá! Para conferir o regulamento da nossa Política de Trocas e Devoluções, basta acessar o link abaixo.",
+                "video": "",
+                "link": "<a href='https://www.orbia.ag/Home/ReturnedItems?' target='_blank'> Política de Trocas e Devoluções</a>",
+                "id": "produtorTrocaDevolucao"
+            },{
+                "pergunta": "Fiz o resgate de um produto. Posso cancelar e receber de volta a pontuação utilizada?",
+                "resposta": "Olá! Sim. O cancelamento deve ser solicitado pela Central de Atendimento. Este tipo de solicitação será aceita dentro de até sete dias após o recebimento do produto.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorTrocaDevolucao"
+            },{
+                "pergunta": "Fiz o resgate de um serviço. Eu posso cancelar e receber de volta a pontuação utilizada?",
+                "resposta": "Olá! Após o resgate do serviço, nossa equipe de atendimento fará contato com você para confirmação de dados e o agendamento do serviço. A partir do agendamento, não será possível cancelar o resgate.",
+                "video": "",
+                "link": "",
+                "id": "produtorTrocaDevolucao"
+            },{
+                "pergunta": "Como realizo trocas de produtos resgatados?",
+                "resposta": "Olá! Em caso de trocas ou devolução, é preciso abrir um chamado na nossa Central de Atendimento. A solicitação de troca ou devolução precisa ocorrer dentro dos sete dias corridos, a partir da data de recebimento do produto.",
+                "video": "",
+                "link": "<div class='link-contato'><span>Email: <a href='mailto:faleconosco@orbia.ag'> faleconosco@orbia.ag</a></span><span>Telefone: <a href='tel:0800 725 9900'> 0800 725 9900</a></span></div>",
+                "id": "produtorTrocaDevolucao"
+            },{
+                "pergunta": "É possível realizar a troca de serviços resgatados?",
+                "resposta": "Olá! Nesse caso, você precisará aguardar o contato da nossa equipe de atendimento para confirmação de dados e agendamento e informar que deseja o cancelamento do serviço para resgatar outro de sua escolha.",
+                "video": "",
+                "link": "",
+                "id": "produtorTrocaDevolucao"
+            },
+            {
+                "pergunta": "O que são os grupos familiares?",
+                "resposta": "Olá! Os grupos familiares é uma nova modalidade da Orbia para você acumular pontos e resgatar benefícios em uma única conta com seus amigos e familiares também cadastrados na Orbia.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "O que é preciso para criar um grupo familiar?",
+                "resposta": "Olá! Para criar um grupo familiar, você precisa se atentar aos seguintes critérios:<br><br>- O grupo pode ter no máximo 10 participantes (1 líder + 9 membros);<br>- Não poderá ter participantes bloqueados ou com suspeita de fraude;<br>- Todos deverão ter aceito os termos de Impulso Bayer;<br>- Não é possível participar de mais de 1 grupo familiar;<br>- Redistribuidores  e dependentes não podem entrar em grupos familiares.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "O que é o líder do grupo familiar?",
+                "resposta": "Olá! O líder é o detentor dos pontos de todos os membros que estiverem no grupo e e é o administrador de tudo que ocorre dentro do mesmo. Algumas funções exclusivas do líder são:<br><br>- Solicitar resgates;<br>- Transferir a liderança a outro membro do grupo;<br>- Convidar novos participantes;<br>- Aprovar ou recusar a entrada de membros no grupo;<br>- Transferir pontos apenas para ex-membros.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "Como é definido quem é o líder do meu grupo familiar?",
+                "resposta": "Olá! O usuário que criar o grupo familiar, será automaticamente o líder do grupo criado. Ele deverá ter pelo menos 1 nota fiscal cadastrada e aprovada ou possuir crédito em conta de algum tipo.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "Como criar um grupo familiar?",
+                "resposta": "Olá! Para criar um grupo familiar, você precisa acessar o nosso site orbia.ag ou aplicativo, entrar na sua conta e clicar em ''Grupos Familiares'' na página inicial.",
+                "video": "",
+                "link": "<a class='link-emprego' href='https://www.orbia.ag/familygroup' target='_blank'>Crie um grupo familiar</a>",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "Como sair de um grupo familiar?",
+                "resposta": "Olá! A saída de participantes pode ser realizada por vontade própria ou por solicitação de saída enviada pelo líder do grupo.<br><br>Tenha atenção: ao sair de um grupo familiar, os pontos ficam no grupo e você poderá participar de outro somente após 8 meses da saída.<br><br>Se o líder desejar sair do grupo, é preciso que ele transfira a liderança para outro membro e, assim, possa ser removido.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "Como me tornar membro de um grupo familiar?",
+                "resposta": "Olá! A sua entrada em um grupo familiar só será possível por meio do convite enviado pelo líder de um grupo e a aprovação da sua entrada. Caso deseje, você mesmo pode criar um grupo e convidar os membros que desejar.",
+                "video": "",
+                "link": "<a class='link-emprego' href='https://www.orbia.ag/familygroup' target='_blank'>Crie um grupo familiar</a>",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "O que acontece com meus pontos quando entro para um grupo familiar?",
+                "resposta": "Olá! Ao ter sua entrada aprovada em um grupo familiar, todos os seus pontos serão transferidos ao líder do grupo. Os membros visualizam todas as movimentações de pontos realizadas pelo grupo: <br><br>- Entrada de pontos por meio de pontuação por notas fiscais;<br>- Transferência de pontos;<br>- Resgate de vouchers;<br>- Pontuações manuais;<br>- Saídas de pontos por meio de resgates;<br>- Transferência de pontos a ex-membros do grupo familiar.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "Como funcionam as transferências dentro dos grupos familiares?",
+                "resposta": "Olá! Ao entrar em um grupo, um membro tem automaticamente toda a sua pontuação transferida para o líder do grupo e todos os integrantes podem acompanhar o histórico de transferências e suas devidas origens.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": "O que acontece com o meu tier ao entrar em um grupo familiar?",
+                "resposta": "Olá! Ao criar o grupo familiar, os Impulsos de todos os integrantes (líder e membros) serão somados para gerar uma nova classificação de acordo com a quantidade. Também será verificado se dentre os participantes possui algum com uma classificação maior do que as demais. A classificação do grupo irá considerar o que for maior: a soma dos Impulsos ou a maior classificação dentre os participantes.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },{
+                "pergunta": " O que acontece com meus Impulsos ao entrar em um grupo familiar?",
+                "resposta": "Olá! Ao criar o grupo familiar, os impulsos de todos os participantes serão somados (líder e membros), gerando uma nova classificação a todos os integrantes. Também será verificado se dentre os participantes possui algum com uma classificação maior do que as demais. A classificação do grupo irá considerar o que for maior: a soma dos Impulsos ou a maior classificação dentre os participantes.",
+                "video": "",
+                "link": "",
+                "id": "produtorGruposFamiliares"
+            },
+            {
+                "pergunta": "Estará acontecendo alguma campanha durante o mês de Agosto?",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "produtorOfertasOrbia"
+            }, {
+                "pergunta": "Quais são as condições para participar da campanha? ",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "produtorOfertasOrbia"
+            }, {
+                "pergunta": "Qual o período de participação da campanha? ",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "produtorOfertasOrbia"
+            }, {
+                "pergunta": "Quais são os meios de pagamentos disponíveis na campanha? ",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "produtorOfertasOrbia"
+            }, {
+                "pergunta": "Onde posso encontrar o regulamento da campanha?",
+                "resposta": "Olá! Infelizmente não estaremos trabalhando nenhuma campanha de ofertas durante esse mês. Acompanhe as nossas redes sociais e e-mails para conferir sobre as nossas próximas campanhas!",
+                "video": "",
+                "link": "",
+                "id": "produtorOfertasOrbia"
+            },
+
+            {
+                "pergunta": "Quais culturas eu posso vender na Orbia? ",
+                "resposta": "Olá! Atualmente, a nossa plataforma para a venda de grãos contempla apenas o cultivo de soja. Em breve, esperamos poder oferecer novas oportunidades para venda de outras culturas aqui na Orbia.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Tenho interesse em vender meus grãos. Como funciona? ",
+                "resposta": "Olá! Para vender seu grão de soja na Orbia, você precisa ter um cadastro em nossa plataforma. Depois, ao clicar em ''Vender Produção'', você irá preencher algumas informações e poderá acessar às melhores ofertas dos nossos compradores parceiros.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Qual é o custo para vender grãos na Orbia?  ",
+                "resposta": "Olá! É cobrada uma taxa de 0,25% sobre os contratos de venda fechados. Esse valor será repassado diretamente para a Orbia pelo comprador dos grãos, no momento do pagamento do contrato.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Qual é o período necessário para entregar os grãos?  ",
+                "resposta": "Olá! Para negociações de até 16.500 sacas, você deverá selecionar uma janela de 15 dias. Acima desse volume, é necessário selecionar pelo menos 30 dias.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Onde tenho que entregar os grãos?  ",
+                "resposta": "Olá! Você deverá entregar os grãos no armazém selecionado durante a negociação. Você também poderá encontrar todos os detalhes do armazém no contrato de compra e venda.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Onde posso acessar o histórico da minha negociação?  ",
+                "resposta": "Olá! O histórico das negociações está disponível em sua conta, na opção de ''Histórico de Negociação''. Basta fazer o login na sua conta pelo site orbia.ag ou via aplicativo.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Como faço para cancelar minha venda de grão na plataforma da Orbia?   ",
+                "resposta": "Olá! Após firmada a negociação de compra e venda, qualquer alteração ou cancelamento deverá ser tratado diretamente com o comprador do seu grão.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Qual é o papel da Orbia na comercialização dos meus grãos?  ",
+                "resposta": "Olá! A plataforma para venda de grãos é um intermediador entre produtores de soja e compradores. Estamos aqui para fazer a aproximação entre produtores e compradores e facilitar o processo de venda dos seus grãos.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Qual é a previsão para negociação de outras culturas na Orbia? ",
+                "resposta": "Até o momento, não há uma previsão exata para a negociação de outras culturas. Estamos constantemente trabalhando em melhorias e esperamos trazer novidades em breve aos nossos clientes.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Como é feito o barter/troca na Orbia?",
+                "resposta": "Olá! Para realizar uma compra de insumos com pagamento em grãos, você deverá entrar em contato com o seu distribuidor e ele irá montar um pacote exclusivo para você.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            }, {
+                "pergunta": "Quais culturas são aceitas para pagamento com barter/troca?",
+                "resposta": "Olá! Atualmente trabalhamos no barter/troca com grãos de soja, milho e café. Confira a disponibilidade com o seu distribuidor de insumos.",
+                "video": "",
+                "link": "",
+                "id": "produtorPagarBarter"
+            },
+            {
+                "pergunta": "O que é Orbia LATAM?",
+                "resposta": "Olá! Este é o projeto de expansão da Orbia para outros países da América Latina com o objetivo de tornar a nossa empresa, cada vez mais, uma multinacional.",
+                "video": "",
+                "link": "",
+                "id": "produtorOrbiaLatam"
+            }, {
+                "pergunta": "Em quais países da América Latina a Orbia está presente?",
+                "resposta": "Olá! Já iniciamos as operações no México e na Colômbia.",
+                "video": "",
+                "link": "",
+                "id": "produtorOrbiaLatam"
+            }, {
+                "pergunta": "Quais são os canais de comunicação de cada país?",
+                "resposta": "Olá! O site para acesso no México é mexico.nucle.ag e na Colômbia é colombia.orbia.ag.",
+                "video": "",
+                "link": "",
+                "id": "produtorOrbiaLatam"
+            }, {
+                "pergunta": "Que tipo de transações posso realizar através das plataformas nos outros países?",
+                "resposta": "Olá! Até o momento, apenas as transações de compra de insumos, cadastro de notas e resgate de produtos e serviços podem ser realizadas pelo site da Orbia no México e na Colômbia.",
+                "video": "",
+                "link": "",
+                "id": "produtorOrbiaLatam"
+            }, {
+                "pergunta": "Qual a previsão de chegada em outros países?",
+                "resposta": "Olá! Por enquanto, estamos programando o início da operação na Argentina. Demais países da América Latina ainda não estão em processo de construção, mas esperamos que em breve possamos alcançar outros locais.",
+                "video": "",
+                "link": "",
+                "id": "produtorOrbiaLatam"
+            }]
+}]
